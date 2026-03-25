@@ -24,7 +24,7 @@ El dataset contiene información sobre salud pública en 159 paises a través de
 3. Ejecuta: `jupyter notebook taller_modulo1.ipynb` 
 ## Hallazgos principales 
 - Hallazgo 1: La región que tiene una mayor esperanza de vida promedio es Europa 
-- Hallazgo 2: Los datos muestran que a mayor ingreso tenga el país, maoyr es el gasto en salud pública 
+- Hallazgo 2: Los datos muestran que a mayor ingreso tenga el país, mayor es el gasto en salud pública 
 - Hallazgo 3: Se encuentra que a mayor ingresos tenga el país, la esperanza de vida promedio es mayor.
 ## Tecnologías 
 Python · Pandas · Jupyter Notebook · Git · GitHub
